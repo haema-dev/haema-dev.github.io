@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p>Haema<br>Software Engineer / Web Programmer<br>Java, Spring, JavaScript<br></p><br>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<p>GitHub:
+    <a href="https://github.com/haema-dev" target="_blank">Haema's GitHub</a>
+</p>
+<p>Tech Blog:
+    <a href="https://haema-dev.tistory.com" target="_blank">Haema's Dev Blog</a>
+</p>
+<p>Daliy Blog:
+    <a href="https://velog.io/@haema_dev" target="_blank">Haema's Growth Life</a>
+</p>
+<p>Anonymous Ask:
+    <a href="https://asked.kr/haemadev" target="_blank">Anonymous Ask</a>
+</p>
+<p>Posting Wall:
+    <a href="rollingpaper.site/rolls/493720" target="_blank">Rolling Paper</a>
+</p>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
-
-[jekyll-organization]: https://github.com/jekyll
