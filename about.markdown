@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<p>Haema<br>Software Engineer / Web Programmer<br>Java, Spring, JavaScript<br></p><br>
+<p>Haema<br>
+    Software Engineer / Web Programmer<br>
+    Korea National Open University, Bacheloar's degree expected in Computer Science<br>
+    Java, Spring, JavaScript<br>
+</p>
+<br>
 
 <p>GitHub:
     <a href="https://github.com/haema-dev" target="_blank">Haema's GitHub</a>
