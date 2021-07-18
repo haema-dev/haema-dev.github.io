@@ -19,7 +19,7 @@ permalink: /about/
     <a href="https://asked.kr/haemadev" target="_blank">Anonymous Ask</a>
 </p>
 <p>Posting Wall:
-    <a href="rollingpaper.site/rolls/493720" target="_blank">Rolling Paper</a>
+    <a href="https://rollingpaper.site/rolls/493720" target="_blank">Rolling Paper</a>
 </p>
 
 
