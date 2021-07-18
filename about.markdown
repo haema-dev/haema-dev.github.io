@@ -16,10 +16,10 @@ permalink: /about/
     <a href="https://velog.io/@haema_dev" target="_blank">Haema's Growth Life</a>
 </p>
 <p>Anonymous Ask:
-    <a href="https://asked.kr/haemadev" target="_blank">Anonymous Ask</a>
+    <a href="https://asked.kr/haemadev" target="_blank">Haema's Anonymous Ask</a>
 </p>
 <p>Posting Wall:
-    <a href="https://rollingpaper.site/rolls/493720" target="_blank">Rolling Paper</a>
+    <a href="https://rollingpaper.site/rolls/747652" target="_blank">Haema's Rolling Paper</a>
 </p>
 
 
