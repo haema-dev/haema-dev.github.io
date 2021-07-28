@@ -6,7 +6,7 @@ permalink: /about/
 
 <p>Haema<br>
     Software Engineer / Web Programmer<br>
-    Korea National Open University, Bacheloar's degree expected in Computer Science<br>
+    Degree of bachelor expected in Computer Science, Korea National Open University<br>
     Java, Spring, JavaScript<br>
 </p>
 <br>
