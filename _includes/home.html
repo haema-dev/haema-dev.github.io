@@ -1,9 +1,28 @@
 <article class="post">
   <header class="post-header home">
-    <div class="post-title">Articles</div>
+    <!-- 2021.08.10 주석 start -->
+    <div style="display: none;" class="post-title">Articles</div>
+    <!-- 2021.08.10 주석 end -->
+  
+    <div class="post-title">About</div>
   </header>
 
   <div class="post-content">
+    <p>Haema<br>
+      Software Engineer / Web Programmer<br>
+      Degree of bachelor expected in Computer Science, Korea National Open University<br>
+      Java, Spring, JavaScript<br>
+    </p><br>
+    <p>GitHub: <a href="https://github.com/haema-dev" target="_blank">Haema's GitHub</a></p>
+    <p>Tech Blog: <a href="https://haema-dev.tistory.com" target="_blank">Haema's Dev Blog</a></p>
+    <p style="display: none;">Daliy Blog: <a href="https://velog.io/@haema_dev" target="_blank">Haema's Growth Life</a></p>
+    <p>Anonymous Ask: <a href="https://asked.kr/haemadev" target="_blank">Haema's Anonymous Ask</a></p>
+  </div>
+
+
+
+  <!-- 2021.08.10 주석 start -->
+  <div style="display: none;" class="post-content">
       {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
@@ -13,15 +32,15 @@
         <span class="post-date">{{ post.date | date: date_format }}</span>
       	<a class="post-link" href="{{ post.url | relative_url }}">
     	    {{ post.title | escape }}
-		</a>
+		    </a>
         {%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
   {%- endif -%}
   </div>
+
+
+
 </article>
-
-
-
 </div>
