@@ -7,22 +7,10 @@ permalink: /about/
 <p>Haema<br>
     Software Engineer / Web Programmer<br>
     Degree of bachelor expected in Computer Science, Korea National Open University<br>
-    Java, Spring, JavaScript<br>
+      Java, Spring / Web<br>
 </p>
 <br>
 
-<p>GitHub:
-    <a href="https://github.com/haema-dev" target="_blank">Haema's GitHub</a>
-</p>
-<p>Tech Blog:
-    <a href="https://haema-dev.tistory.com" target="_blank">Haema's Dev Blog</a>
-</p>
-<p>Daliy Blog:
-    <a href="https://velog.io/@haema_dev" target="_blank">Haema's Growth Life</a>
-</p>
-<p>Anonymous Ask:
-    <a href="https://peing.net/ko/c2ca2af5130d54" target="_blank">Haema's Anonymous Ask</a>
-</p>
-
-
-
+<p>GitHub: <a href="https://github.com/haema-dev" target="_blank">Haema's GitHub</a></p>
+<p>Study Log: <a href="https://haema-dev.tistory.com" target="_blank">Haema's Dev Log</a></p>
+<p>Life Log: <a href="https://velog.io/@haema_dev" target="_blank">Haema's Life Log</a></p>
